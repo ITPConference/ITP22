@@ -4,7 +4,7 @@ email: itp2022@easychair.org
 description: ITP 2022 is the thirteenth conference on Interactive Theorem Proving and related issues, ranging from theoretical foundations to implementation aspects to applications in program verification, security, and formalization of mathematics. ITP 2022 will be part of FLoC 2022.
 location: Haifa, Israel, 2022
 date: August 7-10, 2022
-logo_path: ./assets/images/itp22-logo.svg
+logo_path: ./assets/images/itp22-logo.jpg
 slideshow:
   - id: 0
     image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-1-900x720.jpg
