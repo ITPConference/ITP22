@@ -12,11 +12,11 @@ slideshow:
   - id: 1
     image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-cs-1-900x720.jpeg
   - id: 2
-    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-cs-2-900x481.jpg
+    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-1-900x720.jpg
   - id: 3
     image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-2-900x720.jpg
   - id: 4
-    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-cs-2-900x481.jpg
+    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-1-900x720.jpg
   - id: 5
     image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-cs-1-900x720.jpeg
 navbar:
