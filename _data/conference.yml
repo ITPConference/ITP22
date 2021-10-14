@@ -106,68 +106,68 @@ steering_committees:
   - name: Christian Urban
     org: King’s College London
 technical_program_committees:
-  - name: Alexander Bentkamp
-    org: Vrije Universiteit Amsterdam
-  - name: Hira Syeda
-    org: AWS
-  - name: Andreas	Lochbihler
-    org: Digital Asset (Switzerland) GmbH
-  - name: Pierre-Yves	Strub
-    org: École Polytechnique
   - name: Jeremy	Avigad
     org: Carnegie Mellon University
-  - name: Sandrine	Blazy
-    org: University of Rennes 1 - IRISA
-  - name: Makarius	Wenzel
-    org: sketis.net
-  - name: César	Muñoz
-    org: Amazon
-  - name: Cláudia	Nalon
-    org: University of Brasília
-  - name: Lawrence	Paulson
-    org: University of Cambridge
-  - name: Adam	Naumowicz
-    org: Institute of Computer Science, University of Bialystok, Poland
-  - name: Vincent	Rahli
-    org: University of Birmingham
-  - name: Bas	Spitters
-    org: Aarhus University
-  - name: Hugo	Herbelin
-    org: INRIA
+  - name: Alexander Bentkamp
+    org: Vrije Universiteit Amsterdam
   - name: Christoph	Benzmüller
     org: Freie Universität Berlin
-  - name: Tobias	Nipkow
-    org: Technical University of Munich
-  - name: Valeria	de Paiva
-    org: Samsung Research America and University of Birmingham
-  - name: Magnus O.	Myreen
-    org: Chalmers University of Technology
+  - name: Jasmin	Blanchette
+    org: Vrije Universiteit Amsterdam
+  - name: Sandrine	Blazy
+    org: University of Rennes 1 - IRISA
+  - name: Sylvie	Boldo
+    org: INRIA
+  - name: John	Harrison
+    org: Amazon Web Services
+  - name: Hugo	Herbelin
+    org: INRIA
+  - name: Warren	Hunt
+    org: The University of Texas at Austin
   - name: Cezary	Kaliszyk
     org: University of Innsbruck
   - name: Chantal	Keller
     org: Université Paris-Saclay
   - name: Peter	Lammich
-    org: Institut fuer Informatik, TU Munich
-  - name: Talia	Ringer
-    org: University of Illinois at Urbana-Champaign
-  - name: John	O'Leary
-    org: Intel
-  - name: Sylvie	Boldo
-    org: INRIA
+    org: University of Twente
+  - name: Andreas	Lochbihler
+    org: Digital Asset (Switzerland) GmbH
   - name: Assia	Mahboubi
     org: INRIA
+  - name: César	Muñoz
+    org: Amazon
+  - name: Magnus O.	Myreen
+    org: Chalmers University of Technology
+  - name: Cláudia	Nalon
+    org: University of Brasília
+  - name: Adam	Naumowicz
+    org: Institute of Computer Science, University of Bialystok, Poland
+  - name: Tobias	Nipkow
+    org: Technical University of Munich
   - name: Michael	Norrish
     org: ANU
-  - name: Andrew	Tolmach
-    org: Portland State University
-  - name: Jasmin	Blanchette
-    org: Vrije Universiteit Amsterdam
+  - name: John	O'Leary
+    org: Intel
+  - name: Valeria	de Paiva
+    org: Samsung Research America and University of Birmingham
   - name: Christine Paulin-Mohring
     org: Université Paris-Sud
-  - name: John	Harrison
-    org: Amazon Web Services
-  - name: Warren	Hunt
-    org: The University of Texas at Austin
+  - name: Lawrence	Paulson
+    org: University of Cambridge
+  - name: Vincent	Rahli
+    org: University of Birmingham
+  - name: Talia	Ringer
+    org: University of Illinois at Urbana-Champaign
+  - name: Bas	Spitters
+    org: Aarhus University
+  - name: Pierre-Yves	Strub
+    org: École Polytechnique
+  - name: Andrew	Tolmach
+    org: Portland State University
+  - name: Hira Syeda
+    org: AWS
+  - name: Makarius	Wenzel
+    org: sketis.net
 # webmaster:
 #  - name: Shanhe Yi
 #    org: College of William and Mary (USA)
