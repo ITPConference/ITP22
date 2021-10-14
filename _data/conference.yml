@@ -94,7 +94,7 @@ steering_committees:
   - name: Daniele Gorla
     org: Sapienza Università di Roma
   - name: Gerwin Klein
-    org: Data61, CSIRO and UNSW Sydney
+    org: Proofcraft and UNSW Sydney
   - name: Pete Manolios
     org: Northeastern University
   - name: Magnus Myreen
@@ -109,7 +109,7 @@ technical_program_committees:
   - name: Alexander Bentkamp
     org: Vrije Universiteit Amsterdam
   - name: Hira Syeda
-    org: Chalmers University
+    org: AWS
   - name: Andreas	Lochbihler
     org: Digital Asset (Switzerland) GmbH
   - name: Pierre-Yves	Strub
@@ -157,7 +157,7 @@ technical_program_committees:
   - name: Assia	Mahboubi
     org: INRIA
   - name: Michael	Norrish
-    org: CSIRO
+    org: ANU
   - name: Andrew	Tolmach
     org: Portland State University
   - name: Jasmin	Blanchette
