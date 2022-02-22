@@ -7,18 +7,18 @@ date: August 7-10, 2022
 logo_path: ./assets/images/itp22-logo.png
 slideshow:
   - id: 0
-    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-1-900x720.jpg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/b/be/Technion_Computer_Science_Faculty.jpg
     active: True
   - id: 1
-    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-cs-1-900x720.jpeg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Haifa_Shrine_and_Port.jpg/512px-Haifa_Shrine_and_Port.jpg
   - id: 2
-    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-1-900x720.jpg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Churchillbuilding.jpg/1200px-Churchillbuilding.jpg
   - id: 3
-    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-2-900x720.jpg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/b/be/Technion_Computer_Science_Faculty.jpg
   - id: 4
-    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-1-900x720.jpg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Churchillbuilding.jpg/1200px-Churchillbuilding.jpg
   - id: 5
-    image_path: https://floc2022.org/wp-content/uploads/2020/04/technion-cs-1-900x720.jpeg
+    image_path: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Haifa_Shrine_and_Port.jpg/512px-Haifa_Shrine_and_Port.jpg
 navbar:
   - id: 0
     label: Home
