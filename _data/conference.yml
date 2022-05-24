@@ -67,6 +67,8 @@ deadlines:
     text: Conference
     pass_due: False
 news:
+  - date: 2022-05-24
+    text: Program online
   - date: 2021-09-15
     text: Website online
 # sponsors:

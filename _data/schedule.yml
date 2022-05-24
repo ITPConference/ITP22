@@ -1,3 +1,27 @@
+- date: "2022-08-07"
+  dateReadable: "Day 1"
+  timeslots:
+  - startTime: "9:00"
+    endTime: "9:30"
+    title: "Open remarks"
+  - startTime: "9:30"
+    endTime: "10:30"
+    title: "Invited talk: Modelling and Verifying Properties of Biological Neural Networks"
+    speaker: "Amy Felty"
+  - startTime: "11:00"
+    endTime: "12:00"
+    title: "FLoC invited talk"
+  - startTime: "14:00"
+    endTime: "15:30"
+    title: "Session 1"
+    events:
+      - title: "Candle: A Verified Implementation of HOL Light"
+        speakers: "Oskar Abrahamsson, Magnus O. Myreen, Ramana Kumar, Thomas Sewell"
+      - title: "A Verified Cyclicity Checker"
+        speakers: "Arve Gengelbach, Johannes Åman Pohjola"
+      - title: "Kalas: A Verified, End-to-End Compiler for a Choreographic Language"
+        speakers: "Johannes Åman Pohjola, Alejandro Gómez-Londoño, James Shaker, Michael Norrish"
+
 # - date: "2017-10-14"
 #   dateReadable: "October 14"
 #   timeslots:
