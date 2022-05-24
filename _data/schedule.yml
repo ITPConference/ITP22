@@ -1,5 +1,5 @@
 - date: "2022-08-07"
-  dateReadable: "Day 1"
+  dateReadable: "August 7"
   timeslots:
   - startTime: "9:00"
     endTime: "9:30"
@@ -21,6 +21,56 @@
         speakers: "Arve Gengelbach, Johannes Åman Pohjola"
       - title: "Kalas: A Verified, End-to-End Compiler for a Choreographic Language"
         speakers: "Johannes Åman Pohjola, Alejandro Gómez-Londoño, James Shaker, Michael Norrish"
+  - startTime: "16:00"
+    endTime: "17:30"
+    title: "Session 2"
+    events:
+      - title: "Formalized functional analysis with semilinear maps"
+        speakers: "Frédéric Dupuis, Robert Lewis, Heather Macbeth"
+      - title: "Formalising Fisher’s Inequality: Formal Linear Algebraic Techniques in Combinatorics"
+        speakers: "Chelsea Edmonds, Lawrence C. Paulson"
+      - title: "Formalization of a Stochastic Approximation Theorem"
+        speakers: "Koundinya Vajjha, Barry Trager, Avraham Shinnar, Vasily Pestun"
+  - startTime: "17:30"
+    endTime: "18:30"
+    title: "FLoC Panel"
+
+- date: "2022-08-08"
+  dateReadable: "August 8"
+  timeslots:
+  - startTime: "09:00"
+    endTime: "10:30"
+    title: "Session 1"
+    events:
+      - title: "Refinement of Parallel Algorithms down to LLVM"
+        speakers: "Peter Lammich"
+      - title: "Taming an Authoritative Armv8 ISA Specification: L3 Validation and CakeML Compiler Verification"
+        speakers: "Hrutvik Kanabar, Anthony C. J. Fox, Magnus O. Myreen"
+      - title: "Dandelion: Certified Approximations of Elementary Functions"
+        speakers: "Heiko Becker, Mohit Tekriwal, Eva Darulova, Anastasia Volkova, Jean-Baptiste Jeannin"
+  - startTime: "11:00"
+    endTime: "12:30"
+    title: "Session 2"
+    events:
+      - title: "Synthetic Kolmogorov Complexity in Coq"
+        speakers: "Yannick Forster, Fabian Kunze, Nils Lauermann"
+      - title: "Formalizing Szemerédi's Regularity Lemma in Lean"
+        speakers: "Bhavik Mehta, Yaël Dillies"
+      - title: "Formalizing the divergence theorem and the Cauchy integral formula in Lean"
+        speakers: "Yury Kudryashov"
+  - startTime: "14:00"
+    endTime: "15:30"
+    title: "Session 3"
+    events:
+      - title: "Deeper Shallow Embeddings"
+        speakers: "Jacob Prinz, Alex Kavvos, Leonidas Lampropoulos"
+      - title: "Compositional Verification of Interacting Systems using Event Monads"
+        speakers: "Bohua Zhan, Yi Lv, Shuling Wang, Gehang Zhao, Jifeng Hao, Ye Hong, Bican XiaFormalizing Szemerédi's Regularity Lemma in Lean"
+      - title: "Reflexive tactics for algebra, revisited"
+        speakers: "Kazuhiko Sakaguchi"
+
+
+
 
 # - date: "2017-10-14"
 #   dateReadable: "October 14"
