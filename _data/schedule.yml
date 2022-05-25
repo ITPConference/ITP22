@@ -79,6 +79,7 @@
   - startTime: "09:00"
     endTime: "10:30"
     title: "Session 1"
+    events:
       - title: "Formalization of Randomized Approximation Algorithms for Frequency Moments"
         speakers: "Emin Karayel"
       - title: "Mechanizing Soundness of Off-Policy Evaluation"
