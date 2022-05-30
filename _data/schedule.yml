@@ -64,7 +64,7 @@
       - title: "Deeper Shallow Embeddings"
         speakers: "Jacob Prinz, Alex Kavvos, Leonidas Lampropoulos"
       - title: "Compositional Verification of Interacting Systems using Event Monads"
-        speakers: "Bohua Zhan, Yi Lv, Shuling Wang, Gehang Zhao, Jifeng Hao, Ye Hong, Bican XiaFormalizing Szemerédi's Regularity Lemma in Lean"
+        speakers: "Bohua Zhan, Yi Lv, Shuling Wang, Gehang Zhao, Jifeng Hao, Ye Hong, Bican Xia"
       - title: "Reflexive tactics for algebra, revisited"
         speakers: "Kazuhiko Sakaguchi"
   - startTime: "16:00"
